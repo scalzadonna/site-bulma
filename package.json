@@ -1,8 +1,8 @@
 {
   "name": "santiscalzadonna-bulma",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "personal site",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/scalzadonna/site-bulma/issues"
   },
-  "homepage": "https://github.com/scalzadonna/site-bulma#readme"
+  "homepage": "https://github.com/scalzadonna/site-bulma#readme",
+  "dependencies": {
+    "bulma-start": "0.0.2"
+  }
 }
