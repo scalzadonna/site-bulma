@@ -1,0 +1,22 @@
+{
+  "name": "santiscalzadonna-bulma",
+  "version": "1.0.0",
+  "description": "personal site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scalzadonna/site-bulma.git"
+  },
+  "keywords": [
+    "site"
+  ],
+  "author": "santi scalzadonna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scalzadonna/site-bulma/issues"
+  },
+  "homepage": "https://github.com/scalzadonna/site-bulma#readme"
+}
